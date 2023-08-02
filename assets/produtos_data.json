@@ -1,0 +1,151 @@
+[
+  {
+    "nome": "LANCHES",
+    "produtos": [
+      {"nome": "Croissant"},
+      {"nome": "Sonho"},
+      {"nome": "Massa folhada"}
+    ]
+  },
+  {
+    "nome": "CUCAS",
+    "produtos": [
+      {"nome": "Cuca abacaxi c/ chocolate branco"},
+      {"nome": "Cuca abacaxi"},
+      {"nome": "Cuca açucar"},
+      {"nome": "Cuca amora da casa"},
+      {"nome": "Cuca banana"},
+      {"nome": "Cuca café"},
+      {"nome": "Cuca charge"},
+      {"nome": "Cuca chocolate"},
+      {"nome": "Cuca chocolate branco"},
+      {"nome": "Cuca coco"},
+      {"nome": "Cuca doce de leite"},
+      {"nome": "Cuca figo"},
+      {"nome": "Cuca framboesa"},
+      {"nome": "Cuca frutas vermelhas c/ chocolate branco"},
+      {"nome": "Cuca goiabada"},
+      {"nome": "Cuca laranja"},
+      {"nome": "Cuca leite condensado"},
+      {"nome": "Cuca maçã"},
+      {"nome": "Cuca marta rocha"},
+      {"nome": "Cuca max & milk"},
+      {"nome": "Cuca morango c/ chocolate"},
+      {"nome": "Cuca nozes"},
+      {"nome": "Cuca ouro branco"},
+      {"nome": "Cuca prestígio"},
+      {"nome": "Cuca requeijão"},
+      {"nome": "Cuca romeu e julieta"},
+      {"nome": "Cuca sonho de valsa"},
+      {"nome": "Cuca tropical"},
+      {"nome": "Cuca uva"}
+    ]
+  },
+  {
+    "nome": "ROCAMBOLES",
+    "produtos": [
+      {"nome": "Rocambole de doce de leite SEM cobertura"},
+      {"nome": "Rocambole de doce de leite COM cobertura"},
+      {"nome": "Rocambole de framboesa"},
+      {"nome": "Rocambole de morango"},
+      {"nome": "Rocambole de abacaxi"},
+      {"nome": "Rocambole de branquinho"},
+      {"nome": "Rocambole de brigadeiro"}
+    ]
+  },
+  {
+    "nome": "SEM GLÚTEN",
+    "produtos": [
+      {"nome": "SG- Cocada de cereais"},
+      {"nome": "SG- Cuca"},
+      {"nome": "SG- Docinho chocolate"},
+      {"nome": "SG- Docinho coco"},
+      {"nome": "SG- Granola"},
+      {"nome": "SG- Lasanha carne"},
+      {"nome": "SG- Lasanha frango"},
+      {"nome": "SG- Massa caseira"},
+      {"nome": "SG- Massa pizza"},
+      {"nome": "SG- Merengue"},
+      {"nome": "SG- Merengue nozes"},
+      {"nome": "SG- Panqueca carne"},
+      {"nome": "SG- Panqueca frango"},
+      {"nome": "SG- Pão funcional"},
+      {"nome": "SG- Pastel assado carne"},
+      {"nome": "SG- Pizza brócolis"},
+      {"nome": "SG- Pizza calabresa"},
+      {"nome": "SG- Pizza carne"},
+      {"nome": "SG- Pizza frango"},
+      {"nome": "SG- Pizza linguiça"},
+      {"nome": "SG- Torta chocolate"},
+      {"nome": "SG- Torta coco"}
+    ]
+  },
+  {
+    "nome": "BOLOS",
+    "produtos": [
+      {"nome": "Bolo de cenoura"},
+      {"nome": "Bolo de chocolate"},
+      {"nome": "Bolo de fubá"},
+      {"nome": "Bolo de laranja"},
+      {"nome": "Bolo de limão"},
+      {"nome": "Bolo de manteiga"},
+      {"nome": "Bolo FIT"},
+      {"nome": "Bolo INTEGRAL"},
+      {"nome": "Bolo ESPECIAL chocolate"},
+      {"nome": "Bolo NATURAL"},
+      {"nome": "Bolo VEGANO"},
+      {"nome": "Brownie"},
+      {"nome": "Quindim"},
+      {"nome": "Torta de requeijão"}
+    ]
+  },
+  {
+    "nome": "TORTAS DE BOLACHA",
+    "produtos": [
+      {"nome": "Creme branco P"},
+      {"nome": "Creme branco G"},
+      {"nome": "Creme branco GG"},
+      {"nome": "Creme preto P"},
+      {"nome": "Creme preto G"},
+      {"nome": "Creme preto GG"},
+      {"nome": "Torta de limão"}
+    ]
+  },
+  {
+    "nome": "GUARANAS",
+    "produtos": [
+      {"nome": "Fruki Guarana Zero Lata"},
+      {"nome": "Fruki Guarana Lata"},
+      {"nome": "Fruki Guarana 600ml"},
+      {"nome": "Guarana antartica 600ml"},
+      {"nome": "Guarana antartica zero lata"},
+      {"nome": "Guarana antartica lata"}
+    ]
+  },
+  {
+    "nome": "H20H",
+    "produtos": [
+      {"nome": "H20H limao"},
+      {"nome": "H20H limoneto"}
+    ]
+  },
+  {
+    "nome": "AGUAS",
+    "produtos": [
+      {"nome": "Agua COM gas CRYSTAL"},
+      {"nome": "Agua SEM gas CRYSTAL"},
+      {"nome": "Agua COM gas AGUA DA PEDRA"},
+      {"nome": "Agua SEM gas CRISTAL DA TERRA"}
+    ]
+  },
+  {
+    "nome": "COCA COLAS",
+    "produtos": [
+      {"nome": "Coca lata"},
+      {"nome": "Coca 600"},
+      {"nome": "Coca zero lata"},
+      {"nome": "Coca zero 600"},
+      {"nome": "Coca 290ml"}
+    ]
+  }
+]
