@@ -365,7 +365,7 @@ class _TelaInicialState extends State<TelaInicial> {
       paragraphs.add(paragraph);
     }
 
-    // Function to generate a page with the provided content
+
     pw.Widget buildPage(List<pw.Container> leftColumn,
         List<pw.Container> rightColumn) {
       return pw.Container(
@@ -381,7 +381,7 @@ class _TelaInicialState extends State<TelaInicial> {
       );
     }
 
-    // Generate the multi-page PDF
+
     final List<pw.Widget> pages = [];
     List<pw.Container> currentPageLeftColumn = [];
     List<pw.Container> currentPageRightColumn = [];
