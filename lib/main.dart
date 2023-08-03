@@ -534,7 +534,7 @@ class _TelaInicialState extends State<TelaInicial> {
                 mostrarDialogoAdicionarProduto();
               },
               backgroundColor: Colors.red,
-              child: const Icon(Icons.add),
+              child: const Icon(Icons.local_offer),
             ),
           ),
           Positioned(
@@ -545,7 +545,7 @@ class _TelaInicialState extends State<TelaInicial> {
                 mostrarDialogoAdicionarGrupo();
               },
               backgroundColor: Colors.red,
-              child: const Icon(Icons.add_circle),
+              child: const Icon(Icons.layers),
             ),
           ),
         ],
