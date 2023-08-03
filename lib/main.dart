@@ -212,6 +212,53 @@ class _TelaInicialState extends State<TelaInicial> {
     );
   }
 
+  void mostrarDialogoAdicionarGrupo() async {
+    String? nomeGrupo;
+
+    await showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('Novo Grupo'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              TextField(
+                onChanged: (value) {
+                  nomeGrupo = value;
+                },
+                decoration: const InputDecoration(
+                  labelText: 'Nome do Grupo',
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            ElevatedButton(
+              onPressed: () {
+                if (nomeGrupo != null && nomeGrupo!.isNotEmpty) {
+                  Navigator.of(context).pop();
+                  adicionarNovoGrupo(nomeGrupo!);
+                } else {
+                  mostrarMensagem('Digite o nome do grupo.');
+                }
+              },
+              child: const Text('Criar'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void adicionarNovoGrupo(String nomeGrupo) {
+    final novoGrupo = Grupo(nome: nomeGrupo, produtos: []);
+    grupos.add(novoGrupo);
+    salvarGrupos();
+    setState(() {});
+    mostrarMensagem('Grupo adicionado com sucesso!');
+  }
+
   void mostrarDialogoAdicionarProduto() async {
     String? nomeProduto;
 
@@ -488,6 +535,17 @@ class _TelaInicialState extends State<TelaInicial> {
               },
               backgroundColor: Colors.red,
               child: const Icon(Icons.add),
+            ),
+          ),
+          Positioned(
+            bottom: 16.0,
+            right: 155.0,
+            child: FloatingActionButton(
+              onPressed: () {
+                mostrarDialogoAdicionarGrupo();
+              },
+              backgroundColor: Colors.red,
+              child: const Icon(Icons.add_circle),
             ),
           ),
         ],
