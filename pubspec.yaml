@@ -1,5 +1,5 @@
 name: pedidos_filial_lisaruth
-description: Aplicativo criando para auxiliar a Padaria Lisaruth na logística de transporte de produtos e mercadorias entre matriz e filial
+description: Aplicativo criando para auxiliar a Padaria Lisaruth na logística de transporte de produtos e mercadorias entre matriz e filial.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
