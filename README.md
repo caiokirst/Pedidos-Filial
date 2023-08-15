@@ -1,6 +1,9 @@
 # pedidos_filial_lisaruth
 
-Aplicativo criando para auxiliar a Padaria Lisaruth na logística de transporte de produtos e mercadorias entre matriz e filial
+Aplicativo criando para auxiliar a Padaria Lisaruth na logística de transporte de produtos e mercadorias entre matriz e filial.
+Se baseia em grupos que contém produtos. Cada produto selecionado é adicionado a um carrinho junto com uma quantidade inteira 
+para que esse carrinho crie um PDF que contém uma lista com 2 parágrafos, intercalando as cores das linhas entre preto e cinza para facilitar a leitura.
+Possui opções de criar e remover grupos e produtos. 
 
 ## Getting Started
 
