@@ -4,6 +4,11 @@ Aplicativo criando para auxiliar a Padaria Lisaruth na logística de transporte 
 Se baseia em grupos que contém produtos. Cada produto selecionado é adicionado a um carrinho junto com uma quantidade inteira 
 para que esse carrinho crie um PDF que contém uma lista com 2 parágrafos, intercalando as cores das linhas entre preto e cinza para facilitar a leitura.
 Possui opções de criar e remover grupos e produtos. 
+![image](https://github.com/caiokirst/pedidos_filial_lisaruth/assets/111260690/f73d2a55-c954-4d70-a285-74befa195e08)
+![image](https://github.com/caiokirst/pedidos_filial_lisaruth/assets/111260690/0ddb42ec-dac1-424e-96e1-6af85c44d26c)
+![image](https://github.com/caiokirst/pedidos_filial_lisaruth/assets/111260690/00180861-5542-47c9-aae6-629e8d5842fb)
+
+
 
 ## Getting Started
 
