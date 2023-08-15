@@ -5,7 +5,7 @@ Se baseia em grupos que contém produtos. Cada produto selecionado é adicionado
 para que esse carrinho crie um PDF que contém uma lista com 2 parágrafos, intercalando as cores das linhas entre preto e cinza para facilitar a leitura.
 Possui opções de criar e remover grupos e produtos. 
 ![painel_app](https://github.com/caiokirst/pedidos_filial_lisaruth/assets/111260690/bf02a9d0-dc29-49c8-9768-b6dabe183d6e)
-
+Tela 1: Tela inicial do APP  |||  Tela 2: Selecionando um grupo para adicionar um novo produto na tela inicial  |||  Tela 3: Carrinho com alguns produtos dentro
 
 
 ## Getting Started
